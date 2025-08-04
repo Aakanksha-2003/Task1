@@ -3,7 +3,8 @@
 
 This project involves cleaning and preprocessing.
 ** Key steps performed:
-Removed duplicates and nulls
+
+- Removed duplicates and nulls
 - Standardized text values
 - Converted date formats
 - Renamed and cleaned column headers
