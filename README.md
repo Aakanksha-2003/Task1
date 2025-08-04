@@ -1,8 +1,8 @@
 # Task1- Data Cleaning and Preprocessing
-# amazon sales Data Cleaning
+# Amazon sales Data Cleaning
 
 This project involves cleaning and preprocessing.
-**Key steps performed:
+** Key steps performed:
 Removed duplicates and nulls
 - Standardized text values
 - Converted date formats
